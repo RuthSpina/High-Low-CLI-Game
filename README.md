@@ -1,6 +1,6 @@
-# High-low repository:
+# High-low game using the CLI:
 
-#### The high low game was built using the CLI. 
+
 ##### The specs for the game are:
 	•	Game picks a random number between 1 and 100.
 	•	Prompts user to guess the number
